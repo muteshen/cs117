@@ -1,0 +1,17 @@
+Flask==0.12.2
+Werkzeug<0.13.0,>=0.12.0
+Flask-Babel==0.11.2
+Flask-BabelEx==0.9.3
+Flask-Bootstrap==3.3.7.1
+Flask-Cors==3.0.3
+Flask-Login==0.4.0
+Flask-Mail==0.9.1
+Flask-Moment==0.5.2
+flask-mongoengine==0.9.3
+Flask-OAuth==0.12
+Flask-Principal==0.4.0
+Flask-PyMongo==0.5.1
+Flask-Script==2.0.6
+Flask-Security==3.0.0
+Flask-Social==1.6.2
+Flask-WTF==0.14.2
